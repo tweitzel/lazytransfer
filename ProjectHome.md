@@ -1,0 +1,1 @@
+Lazy Transfer wraps a binary file into a self-extracting vbscript. The script leverages ADO and XMLDOM - two technologies installed by default on most Microsoft operating systems - to convert the encoded ASCII version back into the original binary file. This allows simple file transfer with nothing more than copy/paste and notepad.exe.
